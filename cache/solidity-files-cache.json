@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\jenit\\OneDrive\\Desktop\\rating_system\\contracts\\RatingSystem.sol": {
+      "lastModificationDate": 1684920465540,
+      "contentHash": "f385c52faaced88f692fa818ea851fbe",
+      "sourceName": "contracts/RatingSystem.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "RatingSystem"
+      ]
+    }
+  }
+}
